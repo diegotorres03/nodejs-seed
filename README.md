@@ -1,2 +1,2 @@
 # nodejs-seed
-Startin point for a NodeJS based REST API
+Starting point for a NodeJS based REST API
